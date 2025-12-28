@@ -1,0 +1,8 @@
+.env
+.cache
+__pycache__
+.vscode
+generated_prompts.jsonl
+generated_prompts.txt
+lyrics_cache.json
+art_output/*

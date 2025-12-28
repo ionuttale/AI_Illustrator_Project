@@ -1,0 +1,16 @@
+lyricsgenius
+python-dotenv
+spotipy
+pillow
+ollama
+--index-url https://download.pytorch.org/whl/cu128
+torch 
+torchvision 
+diffusers
+transformers
+accelerate
+safetensors
+deep-translator
+huggingface_hub
+tkinter
+pillow
